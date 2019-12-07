@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COSC Expert System", "COSC Expert System.csproj", "{0B209363-015B-4AAF-BEF8-4CB4F26C54A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B209363-015B-4AAF-BEF8-4CB4F26C54A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B209363-015B-4AAF-BEF8-4CB4F26C54A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B209363-015B-4AAF-BEF8-4CB4F26C54A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B209363-015B-4AAF-BEF8-4CB4F26C54A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F30F34EE-E47E-410B-9BA2-7B86C2A81E03}
+	EndGlobalSection
+EndGlobal

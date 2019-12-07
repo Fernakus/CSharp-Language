@@ -1,0 +1,81 @@
+C:\Users\mferl\Desktop\SSD2\Eclipse\Working Directory\COSC Expert System\bin\Debug\COSC Expert System.exe.config
+C:\Users\mferl\Desktop\SSD2\Eclipse\Working Directory\COSC Expert System\bin\Debug\COSC Expert System.exe
+C:\Users\mferl\Desktop\SSD2\Eclipse\Working Directory\COSC Expert System\bin\Debug\COSC Expert System.pdb
+C:\Users\mferl\Desktop\SSD2\Eclipse\Working Directory\COSC Expert System\obj\Debug\COSC Expert System.csprojAssemblyReference.cache
+C:\Users\mferl\Desktop\SSD2\Eclipse\Working Directory\COSC Expert System\obj\Debug\COSC_Expert_System.Properties.Resources.resources
+C:\Users\mferl\Desktop\SSD2\Eclipse\Working Directory\COSC Expert System\obj\Debug\COSC Expert System.csproj.GenerateResource.cache
+C:\Users\mferl\Desktop\SSD2\Eclipse\Working Directory\COSC Expert System\obj\Debug\COSC Expert System.csproj.CoreCompileInputs.cache
+C:\Users\mferl\Desktop\SSD2\Eclipse\Working Directory\COSC Expert System\obj\Debug\COSC Expert System.exe
+C:\Users\mferl\Desktop\SSD2\Eclipse\Working Directory\COSC Expert System\obj\Debug\COSC Expert System.pdb
+C:\Users\mferl\Desktop\SSD2\Eclipse\Working Directory\COSC Expert System\obj\Debug\COSC_Expert_System.GUI.resources
+C:\Users\mferl\Desktop\SSD2\Eclipse\Working Directory\COSC Expert Advising System\bin\Debug\COSC Expert System.exe.config
+C:\Users\mferl\Desktop\SSD2\Eclipse\Working Directory\COSC Expert Advising System\bin\Debug\COSC Expert System.exe
+C:\Users\mferl\Desktop\SSD2\Eclipse\Working Directory\COSC Expert Advising System\bin\Debug\COSC Expert System.pdb
+C:\Users\mferl\Desktop\SSD2\Eclipse\Working Directory\COSC Expert Advising System\obj\Debug\COSC Expert System.csprojAssemblyReference.cache
+C:\Users\mferl\Desktop\SSD2\Eclipse\Working Directory\COSC Expert Advising System\obj\Debug\COSC_Expert_System.Properties.Resources.resources
+C:\Users\mferl\Desktop\SSD2\Eclipse\Working Directory\COSC Expert Advising System\obj\Debug\COSC Expert System.csproj.GenerateResource.cache
+C:\Users\mferl\Desktop\SSD2\Eclipse\Working Directory\COSC Expert Advising System\obj\Debug\COSC Expert System.csproj.CoreCompileInputs.cache
+C:\Users\mferl\Desktop\SSD2\Eclipse\Working Directory\COSC Expert Advising System\obj\Debug\COSC Expert System.exe
+C:\Users\mferl\Desktop\SSD2\Eclipse\Working Directory\COSC Expert Advising System\obj\Debug\COSC Expert System.pdb
+C:\Users\mferl\Desktop\SSD2\Eclipse\Working Directory\COSC Expert Advising System\obj\Debug\COSC_Expert_System.MainGUI.resources
+\\Mac\Home\Desktop\COSC Expert Advising System\bin\Debug\COSC Expert System.exe.config
+\\Mac\Home\Desktop\COSC Expert Advising System\bin\Debug\COSC Expert System.exe
+\\Mac\Home\Desktop\COSC Expert Advising System\bin\Debug\COSC Expert System.pdb
+\\Mac\Home\Desktop\COSC Expert Advising System\obj\Debug\COSC Expert System.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\COSC Expert Advising System\obj\Debug\COSC_Expert_System.MainGUI.resources
+\\Mac\Home\Desktop\COSC Expert Advising System\obj\Debug\COSC_Expert_System.Properties.Resources.resources
+\\Mac\Home\Desktop\COSC Expert Advising System\obj\Debug\COSC Expert System.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\COSC Expert Advising System\obj\Debug\COSC Expert System.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\COSC Expert Advising System\obj\Debug\COSC Expert System.exe
+\\Mac\Home\Desktop\COSC Expert Advising System\obj\Debug\COSC Expert System.pdb
+C:\Visual Studio\COSC Expert Advising System\bin\Debug\COSC Expert System.exe.config
+C:\Visual Studio\COSC Expert Advising System\bin\Debug\COSC Expert System.exe
+C:\Visual Studio\COSC Expert Advising System\bin\Debug\COSC Expert System.pdb
+C:\Visual Studio\COSC Expert Advising System\obj\Debug\COSC Expert System.csprojAssemblyReference.cache
+C:\Visual Studio\COSC Expert Advising System\obj\Debug\COSC_Expert_System.MainGUI.resources
+C:\Visual Studio\COSC Expert Advising System\obj\Debug\COSC_Expert_System.Properties.Resources.resources
+C:\Visual Studio\COSC Expert Advising System\obj\Debug\COSC Expert System.csproj.GenerateResource.cache
+C:\Visual Studio\COSC Expert Advising System\obj\Debug\COSC Expert System.csproj.CoreCompileInputs.cache
+C:\Visual Studio\COSC Expert Advising System\obj\Debug\COSC Expert System.exe
+C:\Visual Studio\COSC Expert Advising System\obj\Debug\COSC Expert System.pdb
+C:\Visual Studio\COSC Expert Advising System\obj\Debug\COSC_Expert_System.NewStudentGUI.resources
+C:\Visual Studio\COSC Expert Advising System\obj\Debug\COSC_Expert_System.CurrentStudentGUI.resources
+\\Mac\Home\Desktop\COSC Expert Advising System\obj\Debug\COSC_Expert_System.CurrentStudentGUI.resources
+\\Mac\Home\Desktop\COSC Expert Advising System\obj\Debug\COSC_Expert_System.NewStudentGUI.resources
+C:\Users\mferl\Desktop\COSC Expert Advising System\bin\Debug\COSC Expert System.exe.config
+C:\Users\mferl\Desktop\COSC Expert Advising System\bin\Debug\COSC Expert System.exe
+C:\Users\mferl\Desktop\COSC Expert Advising System\bin\Debug\COSC Expert System.pdb
+C:\Users\mferl\Desktop\COSC Expert Advising System\obj\Debug\COSC Expert System.csprojAssemblyReference.cache
+C:\Users\mferl\Desktop\COSC Expert Advising System\obj\Debug\COSC_Expert_System.CurrentStudentGUI.resources
+C:\Users\mferl\Desktop\COSC Expert Advising System\obj\Debug\COSC_Expert_System.MainGUI.resources
+C:\Users\mferl\Desktop\COSC Expert Advising System\obj\Debug\COSC_Expert_System.NewStudentGUI.resources
+C:\Users\mferl\Desktop\COSC Expert Advising System\obj\Debug\COSC_Expert_System.Properties.Resources.resources
+C:\Users\mferl\Desktop\COSC Expert Advising System\obj\Debug\COSC Expert System.csproj.GenerateResource.cache
+C:\Users\mferl\Desktop\COSC Expert Advising System\obj\Debug\COSC Expert System.csproj.CoreCompileInputs.cache
+C:\Users\mferl\Desktop\COSC Expert Advising System\obj\Debug\COSC Expert System.exe
+C:\Users\mferl\Desktop\COSC Expert Advising System\obj\Debug\COSC Expert System.pdb
+C:\Users\mferl\Desktop\SSD2\Eclipse\Working Directory\COSC Expert Advising System\obj\Debug\COSC_Expert_System.CurrentStudentGUI.resources
+C:\Users\mferl\Desktop\SSD2\Eclipse\Working Directory\COSC Expert Advising System\obj\Debug\COSC_Expert_System.NewStudentGUI.resources
+C:\Users\mferl\Desktop\SSD2\Eclipse\Working Directory\COSC Expert Advising System (Desktop)\obj\Debug\COSC Expert System.csprojAssemblyReference.cache
+C:\Users\mferl\Desktop\SSD2\Eclipse\Working Directory\COSC Expert Advising System (Desktop)\obj\Debug\COSC_Expert_System.CurrentStudentGUI.resources
+C:\Users\mferl\Desktop\SSD2\Eclipse\Working Directory\COSC Expert Advising System (Desktop)\obj\Debug\COSC_Expert_System.MainGUI.resources
+C:\Users\mferl\Desktop\SSD2\Eclipse\Working Directory\COSC Expert Advising System (Desktop)\obj\Debug\COSC_Expert_System.NewStudentGUI.resources
+C:\Users\mferl\Desktop\SSD2\Eclipse\Working Directory\COSC Expert Advising System (Desktop)\obj\Debug\COSC_Expert_System.Properties.Resources.resources
+C:\Users\mferl\Desktop\SSD2\Eclipse\Working Directory\COSC Expert Advising System (Desktop)\obj\Debug\COSC Expert System.csproj.GenerateResource.cache
+C:\Users\mferl\Desktop\SSD2\Eclipse\Working Directory\COSC Expert Advising System (Desktop)\obj\Debug\COSC Expert System.csproj.CoreCompileInputs.cache
+C:\Users\mferl\Desktop\SSD2\Eclipse\Working Directory\COSC Expert Advising System (Desktop)\obj\Debug\COSC Expert System.exe
+C:\Users\mferl\Desktop\SSD2\Eclipse\Working Directory\COSC Expert Advising System (Desktop)\obj\Debug\COSC Expert System.pdb
+C:\Users\mferl\Desktop\SSD2\Eclipse\Working Directory\COSC Expert Advising System (Desktop)\bin\Debug\COSC Expert System.exe.config
+C:\Users\mferl\Desktop\SSD2\Eclipse\Working Directory\COSC Expert Advising System (Desktop)\bin\Debug\COSC Expert System.exe
+C:\Users\mferl\Desktop\SSD2\Eclipse\Working Directory\COSC Expert Advising System (Desktop)\bin\Debug\COSC Expert System.pdb
+C:\Users\mferl\Desktop\SSD2\Computer Science\Programming\C#\COSC Expert Advising System\bin\Debug\COSC Expert System.exe.config
+C:\Users\mferl\Desktop\SSD2\Computer Science\Programming\C#\COSC Expert Advising System\bin\Debug\COSC Expert System.exe
+C:\Users\mferl\Desktop\SSD2\Computer Science\Programming\C#\COSC Expert Advising System\bin\Debug\COSC Expert System.pdb
+C:\Users\mferl\Desktop\SSD2\Computer Science\Programming\C#\COSC Expert Advising System\obj\Debug\COSC Expert System.csprojAssemblyReference.cache
+C:\Users\mferl\Desktop\SSD2\Computer Science\Programming\C#\COSC Expert Advising System\obj\Debug\COSC_Expert_System.CurrentStudentGUI.resources
+C:\Users\mferl\Desktop\SSD2\Computer Science\Programming\C#\COSC Expert Advising System\obj\Debug\COSC_Expert_System.MainGUI.resources
+C:\Users\mferl\Desktop\SSD2\Computer Science\Programming\C#\COSC Expert Advising System\obj\Debug\COSC_Expert_System.NewStudentGUI.resources
+C:\Users\mferl\Desktop\SSD2\Computer Science\Programming\C#\COSC Expert Advising System\obj\Debug\COSC_Expert_System.Properties.Resources.resources
+C:\Users\mferl\Desktop\SSD2\Computer Science\Programming\C#\COSC Expert Advising System\obj\Debug\COSC Expert System.csproj.GenerateResource.cache
+C:\Users\mferl\Desktop\SSD2\Computer Science\Programming\C#\COSC Expert Advising System\obj\Debug\COSC Expert System.exe
+C:\Users\mferl\Desktop\SSD2\Computer Science\Programming\C#\COSC Expert Advising System\obj\Debug\COSC Expert System.pdb

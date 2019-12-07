@@ -1,0 +1,146 @@
+(Degree)
+Bachelor of Computer Science (Honours)
+1
+COSC1046 - Introduction to Computer Science I,COSC1047 - Introduction to Computer Science II,MATH1056 - Discrete Mathematics I,MATH1057 - Linear Algebra
+2
+COSC2006 - Data Structures I,COSC2007 - Data Structures II,COSC2406 - Assembly Language Programming,COSC2307 - Database Programming,COSC3406 - Computer Organization,MATH2056 - Discrete Mathematics II
+3
+COSC3106 - Theory of Computing,COSC3127 - Programming Languages,COSC3407 - Operating Systems I,COSC3506 - Software Engineering
+4 - (Option 1)
+COSC4086 - Fourth Year Project,COSC4106 - Analysis of Algorithms,COSC4426 - Topics in Computer Science
+4 - (Option 2)
+COSC4086 - Fourth Year Project,COSC4106 - Analysis of Algorithms,COSC4436 - Computer Networks
+4 - (Option 3)
+COSC4086 - Fourth Year Project,COSC4106 - Analysis of Algorithms,COSC4437 - Distributed Systems
+4 - (Option 4)
+COSC4086 - Fourth Year Project,COSC4106 - Analysis of Algorithms,COSC4596 - Mobile Application Development II
+4 - (Option 5)
+COSC4086 - Fourth Year Project,COSC4426 - Topics in Computer Science,COSC4106 - Analysis of Algorithms
+4 - (Option 6)
+COSC4086 - Fourth Year Project,COSC4426 - Topics in Computer Science,COSC4436 - Computer Networks
+4 - (Option 7)
+COSC4086 - Fourth Year Project,COSC4426 - Topics in Computer Science,COSC4437 - Distributed Systems
+4 - (Option 8)
+COSC4086 - Fourth Year Project,COSC4426 - Topics in Computer Science,COSC4596 - Mobile Application Development II
+4 - (Option 9)
+COSC4086 - Fourth Year Project,COSC4436 - Computer Networks,COSC4106 - Analysis of Algorithms
+4 - (Option 10)
+COSC4086 - Fourth Year Project,COSC4436 - Computer Networks,COSC4426 - Topics in Computer Science
+4 - (Option 11)
+COSC4086 - Fourth Year Project,COSC4436 - Computer Networks,COSC4437 - Distributed Systems
+4 - (Option 12)
+COSC4086 - Fourth Year Project,COSC4436 - Computer Networks,COSC4596 - Mobile Application Development II
+4 - (Option 13)
+COSC4086 - Fourth Year Project,COSC4437 - Distributed Systems,COSC4106 - Analysis of Algorithms
+4 - (Option 14)
+COSC4086 - Fourth Year Project,COSC4437 - Distributed Systems,COSC4426 - Topics in Computer Science
+4 - (Option 15)
+COSC4086 - Fourth Year Project,COSC4437 - Distributed Systems,COSC4436 - Computer Networks
+4 - (Option 16)
+COSC4086 - Fourth Year Project,COSC4437 - Distributed Systems,COSC4596 - Mobile Application Development II
+4 - (Option 17)
+COSC4086 - Fourth Year Project,COSC4596 - Mobile Application Development II,COSC4106 - Analysis of Algorithms
+4 - (Option 18)
+COSC4086 - Fourth Year Project,COSC4596 - Mobile Application Development II,COSC4426 - Topics in Computer Science
+4 - (Option 19)
+COSC4086 - Fourth Year Project,COSC4596 - Mobile Application Development II,COSC4436 - Computer Networks
+4 - (Option 20)
+COSC4086 - Fourth Year Project,COSC4596 - Mobile Application Development II,COSC4437 - Distributed Systems
+4 - (Option 21)
+COSC4106 - Analysis of Algorithms,COSC4426 - Topics in Computer Science,COSC4436 - Computer Networks,COSC4437 - Distributed Systems
+4 - (Option 22)
+COSC4106 - Analysis of Algorithms,COSC4426 - Topics in Computer Science,COSC4436 - Computer Networks,COSC4596 - Mobile Application Development II
+4 - (Option 23)
+COSC4106 - Analysis of Algorithms,COSC4426 - Topics in Computer Science,COSC4596 - Mobile Application Development II,COSC4437 - Distributed Systems
+4 - (Option 24)
+COSC4106 - Analysis of Algorithms,COSC4436 - Computer Networks,COSC4437 - Distributed Systems,COSC4596 - Mobile Application Development II
+4 - (Option 25)
+COSC4426 - Topics in Computer Science,COSC4436 - Computer Networks,COSC4437 - Distributed Systems,COSC4596 - Mobile Application Development II
+(Degree)
+Bachelor of Computer Science - Computer Game Technology (speacialization)
+1
+COSC1046 - Introduction to Computer Science I,COSC1047 - Introduction to Computer Science II,MATH1056 - Discrete Mathematics I,MATH1057 - Linear Algebra,COSC1036 - Games Marketplace,COSC2036 - Computer Game Design I
+2
+COSC2006 - Data Structures I,COSC2007 - Data Structures II,COSC2947 - Object Oriented Programming Using C++,COSC2307 - Database Programming,COSC2636 - Game Software Engineering,MATH1036 - Calculus I,MATH1037 - Calculus II,MATH2056 - Discrete Mathematics II
+3
+COSC2406 - Assembly Language Programming,COSC3106 - Theory of Computing,COSC3127 - Programming Languages,COSC3406 - Computer Organization,COSC3506 - Software Engineering,COSC3306 - Introduction to Computer Graphics,COSC3117 - Artificial Intelligence
+4
+COSC4086 - Fourth-year Project,COSC3407 - Operating Systems I,COSC4106 - Analysis of Algorithms,COSC4436 - Computer Networks
+(Degree)
+Bachelor of Computer Science - Computer Game Technology & Creative Arts
+1
+COSC1046 - Introduction to Computer Science I,COSC1047 - Introduction to Computer Science II,MATH1056 - Discrete Mathematics I,MATH1057 - Linear Algebra,COSC1036 - Games Marketplace,COSC2036 - Computer Game Design I
+2
+COSC2006 - Data Structures I,COSC2007 - Data Structures II,COSC2307 - Database Programming,COSC2406 - Assembly Language Programming,COSC2636 - Game Software Engineering,COSC3406 - Computer Organization,MATH2056 - Discrete Mathematics II
+3
+COSC3106 - Theory of Computing,COSC3117 - Artificial Intelligence,COSC3127 - Programming Languages,COSC3407 - Operating Systems I,COSC3506 - Software Engineering
+4 - (Option 1)
+COSC4086 - Fourth Year Project,COSC4106 - Analysis of Algorithms,COSC4436 - Computer Networks,COSC4596 - Mobile Application Development II
+4 - (Option 2)
+COSC4086 - Fourth Year Project,COSC4106 - Analysis of Algorithms,COSC4436 - Computer Networks,COSC4437 - Distributed Systems
+4 - (Option 3)
+COSC4086 - Fourth Year Project,COSC4106 - Analysis of Algorithms,COSC4436 - Computer Networks,COSC4426 - Topics in Computer Science
+(Degree)
+Bachelor of Computer Science - Mobile Software Engineering(specialization)
+1
+COSC1046 - Introduction to Computer Science I,COSC1047 - Introduction to Computer Science II,MATH1056 - Discrete Mathematics I,MATH1057 - Linear Algebra,ITEC2706 - Mobile Technology: Design and Use
+2
+COSC2006 - Data Structures I,COSC2007 - Data Structures II,COSC2307 - Database Programming,COSC2406 - Assembly Language Programming,MATH2056 - Discrete Mathematics II,COSC3406 - Computer Organization,COSC2596 - Interaction Design and Testing
+3
+COSC3106 - Theory of Computing,COSC3127 - Programming Languages,COSC3407 - Operating Systems I,COSC3506 - Software Engineering,COSC3596 - Mobile Application Development I,COSC3756 - Object Oriented Analysis and Design,COSC4596 - Mobile Application Development II,ITEC3706 - Software Engineering Project Management
+4
+COSC3707 - Techniques of Systems Analysis,COSC4086 - Fourth Year Project,COSC4436 - Computer Networks,COSC4106 - Analysis of Algorithms,COSC2636 - Game Software Engineering,COSC4426 - Topics in Computer Science,COSC4596 - Mobile Application Development II,COSC4437 - Distributed Systems
+(Degree)
+Bachelor of Science (Honours & Non-honours Single Major) Computer Science
+1
+COSC1046 - Introduction to Computer Science I,COSC1047 - Introduction to Computer Science IIMATH1056 - Discrete Mathematics I,MATH1057 - Linear Algebra,MATH1036 - Calculus I,MATH1037 - Calculus II
+2
+COSC2006 - Data Structures I,COSC2007 - Data Structures II,COSC2406 - Assembly Language Programming,COSC2307 - Database Programming,MATH2056 - Discrete Mathematics II,COSCXXXX - 3 Electives
+3
+COSC3106 - Theory of Computing,COSC3127 - Programming Languages,COSC3406 - Computer Organization,COSC3407 - Operating Systems I,COSC3506 - Software Engineering,STAT2126 - Introduction to Statistics,COSCXXXX - 3 Electives
+4 - (Thesis Option 1)
+COSC4106 - Analysis of Algorithms,COSC4436 - Computer Networks,COSCXXXX - 3 Electives,COSC4426 - Topics in Computer Science
+4 - (Thesis Option 2)
+COSC4106 - Analysis of Algorithms,COSC4436 - Computer Networks,COSCXXXX - 3 Electives,COSC4437 - Distributed Systems
+4 - (Thesis Option 3)
+COSC4106 - Analysis of Algorithms,COSC4436 - Computer Networks,COSCXXXX - 3 Electives,COSC4596 - Mobile Application Development II
+4 - (Project Option 1)
+COSC4086 - Fourth Year Project,COSC4106 - Analysis of Algorithms,COSC4436 - Computer Networks
+4 - (Project Option 2)
+COSC4086 - Fourth Year Project,COSC4106 - Analysis of Algorithms,COSC4426 - Topics in Computer Science
+4 - (Project Option 3)
+COSC4086 - Fourth Year Project,COSC4106 - Analysis of Algorithms,COSC4437 - Distributed Systems
+4 - (Project Option 4)
+COSC4086 - Fourth Year Project,COSC4106 - Analysis of Algorithms,COSC4596 - Mobile Application Development II
+4 - (Project Option 5)
+COSC4086 - Fourth Year Project,COSC4436 - Computer Networks,COSC4426 - Topics in Computer Science
+4 - (Project Option 6)
+COSC4086 - Fourth Year Project,COSC4436 - Computer Networks,COSC4437 - Distributed Systems
+4 - (Project Option 7)
+COSC4086 - Fourth Year Project,COSC4436 - Computer Networks,COSC4596 - Mobile Application Development II
+4 - (Project Option 8)
+COSC4086 - Fourth Year Project,COSC4426 - Topics in Computer Science,COSC4437 - Distributed Systems
+4 - (Project Option 9)
+COSC4086 - Fourth Year Project,COSC4426 - Topics in Computer Science,COSC4596 - Mobile Application Development II
+4 - (Project Option 10)
+COSC4086 - Fourth Year Project,COSC4437 - Distributed Systems,COSC4596 - Mobile Application Development II
+4 - (Coursework Option 1)
+COSC4106 - Analysis of Algorithms,COSC4436 - Computer Networks,COSC4426 - Topics in Computer Science
+4 - (Coursework Option 2)
+COSC4106 - Analysis of Algorithms,COSC4437 - Distributed Systems,COSC4426 - Topics in Computer Science
+4 - (Coursework Option 3)
+COSC4106 - Analysis of Algorithms,COSC4596 - Mobile Application Development II,COSC4426 - Topics in Computer Science
+4 - (Coursework Option 4)
+COSC4436 - Computer Networks,COSC4437 - Distributed Systems,COSC4426 - Topics in Computer Science
+4 - (Coursework Option 5)
+COSC4436 - Computer Networks,COSC4596 - Mobile Application Development II,COSC4426 - Topics in Computer Science
+4 - (Coursework Option 6)
+COSC4436 - Computer Networks,COSC4596 - Mobile Application Development II,COSC4106 - Analysis of Algorithms
+4 - (Coursework Option 7)
+COSC4437 - Distributed Systems,COSC4596 - Mobile Application Development II,COSC4426 - Topics in Computer Science
+4 - (Coursework Option 8)
+COSC4436 - Computer Networks,COSC4596 - Mobile Application Development II,COSC4106 - Analysis of Algorithms
+4 - (Coursework Option 9)
+COSC4426 - Topics in Computer Science,COSC4437 - Distributed Systems,COSC4106 - Analysis of Algorithms
+4 - (Coursework Option 10)
+COSC4596 - Mobile Application Development II,COSC4437 - Distributed Systems,COSC4106 - Analysis of Algorithms
